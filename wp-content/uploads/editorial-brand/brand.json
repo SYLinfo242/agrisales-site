@@ -1,0 +1,13 @@
+{
+  "name": "AgriSales",
+  "mark": "Field ledger",
+  "font": "Source Serif 4 Semibold",
+  "primary": "#2f6b4f",
+  "accent": "#b58b45",
+  "ink": "#12201a",
+  "logo_width": 359,
+  "logo_height": 96,
+  "clear_space": "16 units around 64-unit symbol",
+  "minimum_lockup_px": 160,
+  "minimum_icon_px": 16
+}
